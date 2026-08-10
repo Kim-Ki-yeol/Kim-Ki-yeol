@@ -3,88 +3,64 @@
 # ☁️ Kim Ki Yeol
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Cloud+%2F+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+%26+Infrastructure+Automation;Keep+Learning+%26+Keep+Building"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&height=45&lines=Cloud+%26+DevOps;AWS+%7C+Terraform+%7C+Kubernetes;Infrastructure+Automation;Keep+Learning%2C+Keep+Building"
 />
 
 <br/>
 
-### 🌱 Cloud / DevOps를 배우고 기록하고 있습니다.
+**클라우드 인프라를 구축하고, 반복되는 운영 과정을 자동화하는 것에 관심이 있습니다.**
 
-AWS 기반 클라우드 인프라와  
-**IaC · CI/CD · Kubernetes · 운영 자동화**에 관심이 있습니다.
+`Cloud` · `IaC` · `CI/CD` · `Kubernetes` · `Monitoring`
 
 <br/>
 
 ---
 
-## ☁️ Cloud
+### ☁️ Cloud & Container
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black"/>
 
-<br/><br/>
+### 🏗️ IaC & Configuration
 
-## 🐳 Container & Orchestration
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+### 🔄 CI/CD & GitOps
 
-<br/><br/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
 
-## 🏗 IaC & Configuration
+### 📊 Monitoring
 
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=black"/>
 
-<br/><br/>
+### 🌐 Network
 
-## 🔄 CI/CD & GitOps
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+### 💻 Programming & OS
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 
-## 📊 Monitoring
+### 🛠️ Tools
 
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=black"/>
-
-<br/><br/>
-
-## 💻 Programming & OS
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-
-<br/><br/>
-
-## 🛠 Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-
-<br/><br/>
-
----
-
-## 📈 GitHub
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Kim-Ki-yeol&show_icons=true&hide_border=true&count_private=true"
-/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 <br/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ki-yeol&layout=compact&hide_border=true"
-/>
+---
 
-<br/><br/>
+### 🌱 Keep Learning · Keep Building
 
-### 🌱 꾸준히 배우고 개선해 나가겠습니다.
+**조금씩 배우고, 직접 만들어보며 기록하고 있습니다.**
 
 </div>
