@@ -1,10 +1,8 @@
-<div align="center">
+<escape><div align="center">
 
 # ☁️ Kim Ki Yeol
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&height=45&lines=Cloud+%26+DevOps;AWS+%7C+Terraform+%7C+Kubernetes;Infrastructure+Automation;Keep+Learning%2C+Keep+Building"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&height=45&lines=Cloud+%26+DevOps;AWS+%7C+Terraform+%7C+Kubernetes;Infrastructure+Automation;Keep+Learning%2C+Keep+Building" />
 
 <br/>
 
@@ -13,6 +11,15 @@
 `Cloud` · `IaC` · `CI/CD` · `Kubernetes` · `Monitoring`
 
 <br/>
+
+<a href="https://kim-ki-yeol.github.io/giyeol-portfolio/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-5865F2?style=for-the-badge" />
+</a>
+<a href="https://github.com/Kim-Ki-yeol/giyeol-portfolio">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
 
 ---
 
@@ -59,8 +66,23 @@
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **AI-SRE Console** | Terraform 기반 AWS 멀티 리전 인프라 및 DR 자동화 |
+| **Warm Standby** | 하이브리드 클라우드 재해 복구 환경 구축 |
+| **AWS K3s** | AWS 기반 경량 Kubernetes 클러스터 구축 |
+| **DUR System** | 의약품 안전사용 관리 시스템 개발 |
+
+<br/>
+
+**[📂 View All Projects](https://kim-ki-yeol.github.io/giyeol-portfolio/)**
+
+---
+
 ### 🌱 Keep Learning · Keep Building
 
 **조금씩 배우고, 직접 만들어보며 기록하고 있습니다.**
 
-</div>
+</div></escape>
