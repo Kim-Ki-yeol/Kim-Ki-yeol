@@ -1,9 +1,11 @@
 
 <div align="center">
 
-# Kim Ki Yeol
+# ☁️ Kim Ki Yeol
 
-### Cloud / DevOps Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&height=45&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;AI+%26+Automation;Keep+Learning%2C+Keep+Building" alt="Typing introduction"/>
+
+<br>
 
 클라우드 인프라를 구축하고, 반복되는 운영 과정을 자동화하는 데 관심이 있습니다.
 
@@ -12,17 +14,13 @@
 <br>
 
 <a href="https://kim-ki-yeol.github.io/giyeol-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-52796F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-70B8FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/Kim-Ki-yeol/IssueFlow-AI">
-  <img src="https://img.shields.io/badge/IssueFlow%20AI-Live%20Project-24292F?style=for-the-badge&logo=github&logoColor=white" alt="IssueFlow AI"/>
+  <img src="https://img.shields.io/badge/IssueFlow%20AI-View%20Project-8AB4F8?style=for-the-badge&logo=github&logoColor=white" alt="IssueFlow AI"/>
 </a>
 
 <br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=52796F&center=true&vCenter=true&width=520&lines=Cloud+Infrastructure+%26+Automation;AI+%26+Data+Engineering;Learning+by+Building" alt="Typing introduction"/>
-
-<br>
 
 ---
 
@@ -34,7 +32,7 @@
 
 ### Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,ubuntu&theme=light" alt="Cloud and Infrastructure"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,ubuntu&theme=light" alt="Cloud Infrastructure"/>
 
 <br>
 
@@ -44,12 +42,12 @@
 
 ### IaC & DevOps
 
-<img src="https://skillicons.dev/icons?i=terraform,ansible,githubactions,git&theme=light" alt="Infrastructure Automation"/>
+<img src="https://skillicons.dev/icons?i=terraform,ansible,githubactions,git&theme=light" alt="IaC DevOps"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Argo%20CD-F6A77A?style=flat-square&logo=argo&logoColor=white" alt="Argo CD"/>
+<img src="https://img.shields.io/badge/Cloudflare-F8A45B?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 
 <br><br>
 
@@ -59,13 +57,13 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Loki-5A6B78?style=flat-square&logo=grafana&logoColor=white" alt="Loki"/>
+<img src="https://img.shields.io/badge/Loki-8AB4F8?style=flat-square&logo=grafana&logoColor=white" alt="Loki"/>
 
 <br><br>
 
 ### Programming & Web
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,spring,react&theme=light" alt="Programming and Web"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react&theme=light" alt="Programming Web"/>
 
 <br>
 
@@ -79,23 +77,23 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/RAG-476A6F?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/AI%20Agent-52796F?style=flat-square" alt="AI Agent"/>
-<img src="https://img.shields.io/badge/MCP-59656F?style=flat-square" alt="MCP"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-9B8AFB?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/LangChain-6BC8B6?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/RAG-8AB4F8?style=flat-square&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/AI%20Agent-A3BFFA?style=flat-square&logoColor=white" alt="AI Agent"/>
+<img src="https://img.shields.io/badge/MCP-B9A7F7?style=flat-square&logoColor=white" alt="MCP"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Pandas-8AB4F8?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-A3BFFA?style=flat-square&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Streamlit-FF8F91?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 
 <br><br>
 
 ### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,github,vscode,vercel&theme=light" alt="Database and Tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,github,vscode,vercel&theme=light" alt="Database Tools"/>
 
 <br><br>
 
@@ -114,7 +112,7 @@
 GitHub 이슈를 GPT로 분석해 유형과 우선순위를 분류하고,
 분석 결과를 GitHub 라벨과 댓글에 반영하는 웹 서비스입니다.
 
-`Python` `OpenAI API` `GitHub API` `PostgreSQL` `Vercel`
+`Python` `OpenAI API` `GitHub API` `Vercel`
 
 [GitHub Repository](https://github.com/Kim-Ki-yeol/IssueFlow-AI) · [Live Demo](https://issue-flow-ai.vercel.app)
 
@@ -167,7 +165,7 @@ DUR API와 OpenCV를 활용해 의약품 정보를 확인하고,
 <div align="center">
 
 <a href="https://kim-ki-yeol.github.io/giyeol-portfolio/">
-  <img src="https://img.shields.io/badge/View%20All%20Projects-52796F?style=for-the-badge&logo=githubpages&logoColor=white" alt="View All Projects"/>
+  <img src="https://img.shields.io/badge/View%20All%20Projects-70B8FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="View All Projects"/>
 </a>
 
 <br><br>
